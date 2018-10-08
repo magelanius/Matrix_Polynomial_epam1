@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixOperations", "MatrixOperations\MatrixOperations.csproj", "{41C4F669-CB1D-404B-97C9-26A30FAFE6FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{71B1A382-F0A2-4134-94A3-090A0C504B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolynomOperations", "PolynomOperations\PolynomOperations.csproj", "{F54722B0-DA91-474B-A7CA-1F5A91815B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		run jet|Any CPU = run jet|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41C4F669-CB1D-404B-97C9-26A30FAFE6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41C4F669-CB1D-404B-97C9-26A30FAFE6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41C4F669-CB1D-404B-97C9-26A30FAFE6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41C4F669-CB1D-404B-97C9-26A30FAFE6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41C4F669-CB1D-404B-97C9-26A30FAFE6FE}.run jet|Any CPU.ActiveCfg = run jet|Any CPU
+		{41C4F669-CB1D-404B-97C9-26A30FAFE6FE}.run jet|Any CPU.Build.0 = run jet|Any CPU
+		{71B1A382-F0A2-4134-94A3-090A0C504B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B1A382-F0A2-4134-94A3-090A0C504B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B1A382-F0A2-4134-94A3-090A0C504B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B1A382-F0A2-4134-94A3-090A0C504B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B1A382-F0A2-4134-94A3-090A0C504B57}.run jet|Any CPU.ActiveCfg = run jet|Any CPU
+		{71B1A382-F0A2-4134-94A3-090A0C504B57}.run jet|Any CPU.Build.0 = run jet|Any CPU
+		{F54722B0-DA91-474B-A7CA-1F5A91815B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F54722B0-DA91-474B-A7CA-1F5A91815B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F54722B0-DA91-474B-A7CA-1F5A91815B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F54722B0-DA91-474B-A7CA-1F5A91815B13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F54722B0-DA91-474B-A7CA-1F5A91815B13}.run jet|Any CPU.ActiveCfg = run jet|Any CPU
+		{F54722B0-DA91-474B-A7CA-1F5A91815B13}.run jet|Any CPU.Build.0 = run jet|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B204A037-EDF3-4522-BDAB-E9C0A1515494}
+	EndGlobalSection
+EndGlobal

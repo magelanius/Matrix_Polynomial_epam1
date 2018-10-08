@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Matrix_Polynomial_epam1")]
+[assembly: AssemblyTitle("MatrixOperations")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Matrix_Polynomial_epam1")]
+[assembly: AssemblyProduct("MatrixOperations")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2304dd03-4faf-427a-b877-499a4ace0abd")]
+[assembly: Guid("41c4f669-cb1d-404b-97c9-26a30fafe6fe")]
 
 // Version information for an assembly consists of the following four values:
 //
