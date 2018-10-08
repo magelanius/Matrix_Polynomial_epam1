@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix_Polynomial_epam1", "Matrix_Polynomial_epam1\Matrix_Polynomial_epam1.csproj", "{2304DD03-4FAF-427A-B877-499A4ACE0ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2304DD03-4FAF-427A-B877-499A4ACE0ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2304DD03-4FAF-427A-B877-499A4ACE0ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2304DD03-4FAF-427A-B877-499A4ACE0ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2304DD03-4FAF-427A-B877-499A4ACE0ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF2E3AAA-3E9E-4436-B8FF-58A3469F00BD}
+	EndGlobalSection
+EndGlobal
